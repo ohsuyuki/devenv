@@ -8,6 +8,8 @@
 git config --global alias.commit co
 git config --global alias.branch br
 git config --global alias.status st
+git config --global alias.fetch fe
+git config --global alias.pull pu
 ```
 
 #### .gitconfig
@@ -16,6 +18,8 @@ git config --global alias.status st
         co = checkout
         st = status
         br = branch
+        fetch = fe
+        pull = pu
         brdel = "branch --delete"
 ```
 
