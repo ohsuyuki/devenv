@@ -4,9 +4,9 @@
 
 ### gitコマンド エイリアス
 ```
-$ git config --global alias.commit co
-$ git config --global alias.branch br
-$ git config --global alias.status st
+git config --global alias.commit co
+git config --global alias.branch br
+git config --global alias.status st
 ```
 
 ### git-completion
