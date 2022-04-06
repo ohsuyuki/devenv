@@ -10,7 +10,7 @@ git config --global alias.status st
 ```
 
 ## git-completion
-#### インストール方法
+#### インストール
 ```
 mkdir ~/.zsh
 cd ~/.zsh
