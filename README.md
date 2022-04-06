@@ -2,14 +2,14 @@
 開発環境に関して、広く記載します。
 狙いは、新しい開発環境を作る時の手間を減らすことです。
 
-### git commands alias
+## git commands alias
 ```
 git config --global alias.commit co
 git config --global alias.branch br
 git config --global alias.status st
 ```
 
-### git-completion
+## git-completion
 #### インストール方法
 ```
 mkdir ~/.zsh
