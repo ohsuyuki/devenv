@@ -3,10 +3,20 @@
 狙いは、新しい開発環境を作る時の手間を減らすことです。
 
 ## git commands alias
+#### 設定コマンド
 ```
 git config --global alias.commit co
 git config --global alias.branch br
 git config --global alias.status st
+```
+
+#### .gitconfig
+```
+[alias]
+        co = checkout
+        st = status
+        br = branch
+        brdel = "branch --delete"
 ```
 
 ## git-completion
