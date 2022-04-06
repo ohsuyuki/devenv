@@ -2,13 +2,12 @@
 開発環境に関して、広く記載します。
 狙いは、新しい開発環境を作る時の手間を減らすことです。
 
-### git-prompt / git-completion
+### git-completion
 #### インストール方法
 ```
 mkdir ~/.zsh
 cd ~/.zsh
 
-curl -o git-prompt.sh https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
 curl -o git-completion.bash https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 curl -o _git https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.zsh
 ```
