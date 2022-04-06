@@ -3,7 +3,7 @@
 狙いは、新しい開発環境を作る時の手間を減らすことです。
 
 ## git commands alias
-#### 設定コマンド
+#### コマンド
 ```
 git config --global alias.commit co
 git config --global alias.branch br
