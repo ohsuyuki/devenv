@@ -41,3 +41,7 @@ fpath=(~/.zsh $fpath)
 zstyle ':completion:*:*:git:*' script ~/.zsh/git-completion.bash
 autoload -Uz compinit && compinit
 ```
+
+## Clipy
+#### インストール
+https://clipy-app.com/
