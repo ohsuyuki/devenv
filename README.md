@@ -15,12 +15,11 @@ git config --global alias.pull pu
 #### .gitconfig
 ```
 [alias]
-        co = checkout
-        st = status
-        br = branch
-        fetch = fe
-        pull = pu
-        brdel = "branch --delete"
+	co = commit
+	br = branch
+	st = status
+	fe = fetch
+	pu = pull
 ```
 
 ## git-completion
